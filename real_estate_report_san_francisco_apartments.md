@@ -1,102 +1,102 @@
-# Real Estate Report: 2-Bedroom Apartments in San Francisco
+# Real Estate Report: Apartments in San Francisco Under $3000
 
-## 1. Shirley Chisholm Village
-- **Address**: 1360 43rd Ave, San Francisco, CA
-- **Price**: $983+
-- **Bedrooms**: 2
-- **Bathrooms**: Not specified
-- **Details**: [View Listing](https://www.zillow.com/apartments/san-francisco-ca-shirley-chisholm-village-9NLPhr/)
-![Shirley Chisholm Village](https://photos.zillowstatic.com/fp/9b241f95523b2253311ddd8c47f07d4a-p_e.jpg)
-
----
-
-## 2. Apartment in 94112
-- **Address**: (undisclosed Address), San Francisco, CA 94112
-- **Price**: $1950
-- **Bedrooms**: 2
+## 1. 312 Fillmore St APT 18
+![312 Fillmore St APT 18](https://photos.zillowstatic.com/fp/2c7cb06746fbd6db4e0a0a75abfd8221-p_e.jpg)
+- **Price**: $2350/month
+- **Bedrooms**: 0
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/San-Francisco-CA-94112/2090665009_zpid/)
-![Apartment in 94112](https://photos.zillowstatic.com/fp/446fc738185e46377225c4ce1ff8bfbc-p_e.jpg)
+- **Address**: 312 Fillmore St APT 18, San Francisco, CA 94117
+- **Details**: [View Listing](https://www.zillow.com/homedetails/312-Fillmore-St-APT-18-San-Francisco-CA-94117/2056237031_zpid/)
 
 ---
 
-## 3. 520 Natoma St APT 2
-- **Address**: 520 Natoma St APT 2, San Francisco, CA 94103
-- **Price**: $2145
-- **Bedrooms**: 2
+## 2. 1627-1629-1631 Clay St
+![1627-1629-1631 Clay St](https://photos.zillowstatic.com/fp/41074843c62a1fb8ef41ae728b2c9428-p_e.jpg)
+- **Price**: $2695/month
+- **Bedrooms**: 0
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/520-Natoma-St-APT-2-San-Francisco-CA-94103/2106116840_zpid/)
-![520 Natoma St APT 2](https://photos.zillowstatic.com/fp/ffb54f3b62f2e3bf2fc3f782b79533c0-p_e.jpg)
+- **Address**: 1627-1629-1631 Clay St, San Francisco, CA
+- **Details**: [View Listing](https://www.zillow.com/b/1629-clay-st-san-francisco-ca-CgzFwn/)
 
 ---
 
-## 4. 160 8th St
-- **Address**: 160 8th St, San Francisco, CA
-- **Price**: $2,180+
-- **Bedrooms**: 2
-- **Bathrooms**: Not specified
-- **Details**: [View Listing](https://www.zillow.com/b/160-8th-st-san-francisco-ca-C4q3cR/)
-![160 8th St](https://photos.zillowstatic.com/fp/b35cbc63264135b9d94f3eaac96cd055-p_e.jpg)
-
----
-
-## 5. Apartment in 94103
-- **Address**: (undisclosed Address), San Francisco, CA 94103
-- **Price**: $2199
-- **Bedrooms**: 2
+## 3. 399 Fremont St
+![399 Fremont St](https://photos.zillowstatic.com/fp/50cfc6a40f960018e8f2fc553b4cb778-p_e.jpg)
+- **Price**: $2731/month
+- **Bedrooms**: 0
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/San-Francisco-CA-94103/2063065332_zpid/)
-![Apartment in 94103](https://photos.zillowstatic.com/fp/921e574b80102c03eb37161054d7da79-p_e.jpg)
+- **Address**: 399 Fremont St, San Francisco, CA
+- **Details**: [View Listing](https://www.zillow.com/apartments/san-francisco-ca/399-fremont/5Yy6Lv/)
 
 ---
 
-## 6. 170 Venus St
-- **Address**: 170 Venus St, San Francisco, CA 94124
-- **Price**: $2200
-- **Bedrooms**: 2
+## 4. 777 Tennessee St
+![777 Tennessee St](https://photos.zillowstatic.com/fp/3166cb910dc9426d90d9f555a218cd70-p_e.jpg)
+- **Price**: $2999/month
+- **Bedrooms**: 0
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/170-Venus-St-San-Francisco-CA-94124/15158713_zpid/)
-![170 Venus St](https://photos.zillowstatic.com/fp/2d4bbdc59a419d9edf2076ebb86acb78-p_e.jpg)
+- **Address**: 777 Tennessee St, San Francisco, CA 94107
+- **Details**: [View Listing](https://www.zillow.com/apartments/san-francisco-ca/777-tenn/9NK7hy/)
 
 ---
 
-## 7. 780 Post Street
-- **Address**: 780 Post Street, 780 Post St, San Francisco, CA 94109
-- **Price**: $2245
-- **Bedrooms**: 2
+## 5. 501 38th Ave APT 104
+![501 38th Ave APT 104](https://photos.zillowstatic.com/fp/23718ecefb3aa16af0e930c040679ddc-p_e.jpg)
+- **Price**: $2200/month
+- **Bedrooms**: 0
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/apartments/san-francisco-ca-780-post-street-5XjKSw/)
-![780 Post Street](https://photos.zillowstatic.com/fp/6be962335a7781c78384d563fc77720c-p_e.jpg)
+- **Address**: 501 38th Ave APT 104, San Francisco, CA 94121
+- **Details**: [View Listing](https://www.zillow.com/homedetails/501-38th-Ave-APT-104-San-Francisco-CA-94121/440607266_zpid/)
 
 ---
 
-## 8. 246 Oak St
-- **Address**: 246 Oak St, San Francisco, CA 94102
-- **Price**: $2295
-- **Bedrooms**: 2
+## 6. 2133 Stockton St
+![2133 Stockton St](https://photos.zillowstatic.com/fp/049d70b822060c56c5f04351dde090ad-p_e.jpg)
+- **Price**: $2299/month
+- **Bedrooms**: 1
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/246-Oak-St-San-Francisco-CA-94102/2120784957_zpid/)
-![246 Oak St](https://photos.zillowstatic.com/fp/5acaa1fe71e9321820cdbd3677571597-p_e.jpg)
+- **Address**: 2133 Stockton St, San Francisco, CA
+- **Details**: [View Listing](https://www.zillow.com/apartments/san-francisco-ca/the-bay-5Xhzkj/)
 
 ---
 
-## 9. 60 Racine Ln #B
-- **Address**: 60 Racine Ln #B, San Francisco, CA 94134
-- **Price**: $2300
-- **Bedrooms**: 2
+## 7. 737 Post St
+![737 Post St](https://photos.zillowstatic.com/fp/5dacbdf956d963c5897e76a17e9f3488-p_e.jpg)
+- **Price**: $2,006/month
+- **Bedrooms**: 1
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/60-Racine-Ln-B-San-Francisco-CA-94134/2059275630_zpid/)
-![60 Racine Ln #B](https://photos.zillowstatic.com/fp/1d3a257da25f97cea2040ce69064be8f-p_e.jpg)
+- **Address**: 737 Post St, San Francisco, CA
+- **Details**: [View Listing](https://www.zillow.com/apartments/san-francisco-ca-tower-737-condominium-rentals-5XjyDr/)
 
 ---
 
-## 10. 1583 37th Ave #1
-- **Address**: 1583 37th Ave #1, San Francisco, CA 94122
-- **Price**: $2330
-- **Bedrooms**: 2
+## 8. 1650 Clay St #10
+![1650 Clay St #10](https://photos.zillowstatic.com/fp/0b1ef74ab875aecdf31bf38acde3c9b4-p_e.jpg)
+- **Price**: $1995/month
+- **Bedrooms**: 0
 - **Bathrooms**: 1
-- **Details**: [View Listing](https://www.zillow.com/homedetails/1583-37th-Ave-1-San-Francisco-CA-94122/2057461950_zpid/)
-![1583 37th Ave #1](https://photos.zillowstatic.com/fp/84e32b834fcc2b345c1f01bd0b1adf88-p_e.jpg)
+- **Address**: 1650 Clay St #10, San Francisco, CA 94109
+- **Details**: [View Listing](https://www.zillow.com/b/1650-clay-san-francisco-ca-5j4BjW/)
+
+---
+
+## 9. 2450 Octavia St APT 1B
+![2450 Octavia St APT 1B](https://photos.zillowstatic.com/fp/8cf0a799d80297ce881d408375267436-p_e.jpg)
+- **Price**: $2275/month
+- **Bedrooms**: 0
+- **Bathrooms**: 1
+- **Address**: 2450 Octavia St APT 1B, San Francisco, CA 94109
+- **Details**: [View Listing](https://www.zillow.com/b/2450-octavia-street-san-francisco-ca-9NKHFc/)
+
+---
+
+## 10. 435 43rd Ave APT 104
+![435 43rd Ave APT 104](https://photos.zillowstatic.com/fp/ef775ff5c9fd8aba221ca494097f79f6-p_e.jpg)
+- **Price**: $2400/month
+- **Bedrooms**: 1
+- **Bathrooms**: 1
+- **Address**: 435 43rd Ave APT 104, San Francisco, CA 94121
+- **Details**: [View Listing](https://www.zillow.com/homedetails/435-43rd-Ave-APT-104-San-Francisco-CA-94121/2094252475_zpid/)
 
 ---
 

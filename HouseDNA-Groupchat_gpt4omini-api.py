@@ -306,8 +306,7 @@ writer = autogen.ConversableAgent(
 ## Check Speaker Transition Policies
 allowed_or_disallowed_speaker_transitions={
     user_proxy: [engineer, planner],
-    engineer: [user_proxy, executls
-               or],
+    engineer: [user_proxy, executor],
     writer: [user_proxy, planner],
     executor: [user_proxy, engineer, planner],
     planner: [user_proxy,engineer],
