@@ -184,7 +184,7 @@ def save_markdown_file(filename: str, content: str) -> None:
 
 # ## The task!
 
-task = """Generate a real estate report to show some homes I am interested"""
+task = input("Please enter the task you'd like to perform (e.g., 'Generate a real estate report to show some homes I am interested in'): ")
 
 # ## Build a group chat
 # 
